@@ -1,3 +1,5 @@
+package binaerbaum;
+
 public class Tree {
      Node root;
 
